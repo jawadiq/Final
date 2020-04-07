@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Final</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="log_to">Log</string>
+    <string name="log_to_data">Log</string>
+    <string name="maps_view">Maps</string>
+    <string name="alarm">Alarm</string>
+    <string name="name">Name</string>
+    <string name="register">Register</string>
+    <string name="set_alarm">Set Alarm</string>
+    <string name="textview">TextView</string>
+    <string name="unset_alarm">Unset Alarm</string>
+    <string name="view_restaurants">View Restaurants</string>
+    <string name="restarants">Restarants</string>
+    <string name="register_routine">Register/Routine</string>
+    <string name="set_notification">Set Notification</string>
+    <string name="select_meal">Select Meal</string>
+    <string name="context_aware_restaurants_finding_mobile_application">Context Aware Restaurants finding Mobile Application</string>
+</resources>
